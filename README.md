@@ -39,4 +39,4 @@ While platforms like Google Photos handle object search, they lack precision in 
 
 ## Guided By
 
-**_Dr. Sharvan Ram_** **(Head of the CSE Department)**
+**Narayan Jangid** **(Founder of RoboAI Hub)**
