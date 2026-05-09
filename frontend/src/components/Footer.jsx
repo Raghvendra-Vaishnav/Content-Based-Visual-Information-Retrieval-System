@@ -46,21 +46,21 @@ const Footer = () => {
               <IconButton
                 color="inherit"
                 component={Link}
-                href="https://github.com"
+                href="https://github.com/Raghvendra-Vaishnav/"
               >
                 <GitHubIcon />
               </IconButton>
               <IconButton
                 color="inherit"
                 component={Link}
-                href="https://linkedin.com"
+                href="https://in.linkedin.com/in/raghvendra-vaishnav-41227a260"
               >
                 <LinkedInIcon />
               </IconButton>
               <IconButton
                 color="inherit"
                 component={Link}
-                href="mailto:team@cbvirs-project.com"
+                href="mailto:vaishnavraghavendra68@gmail.com"
               >
                 <EmailIcon />
               </IconButton>
